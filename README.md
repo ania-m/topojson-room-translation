@@ -6,7 +6,7 @@ geojson_compare.py --> compares between two geojson files and creates a translat
 update_topo.py --> updates shape properties (such as name) in topojson files based on data in an excel document
 
 **Additional** <br>
-in modules:
+in modules:<br>
 add_footprint_geojson.py --> adds an overall footprint to all files in folder based on joined shaped geometry from files
 
 geo_to_topo.py --> converts geojson files to topojson files
